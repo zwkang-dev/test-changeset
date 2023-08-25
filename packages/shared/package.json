@@ -1,5 +1,5 @@
 {
-  "name": "@pkg-name/shared",
+  "name": "@zwkang-dev/test-changeset",
   "version": "0.0.0",
   "packageManager": "pnpm@7.9.0",
   "description": "> description:",
