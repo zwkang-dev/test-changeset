@@ -1,5 +1,5 @@
 ---
-'@pkg-name/shared': minor
+'@zwkang-dev/test-changeset': minor
 ---
 
 add utils

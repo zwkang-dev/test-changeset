@@ -1,5 +1,5 @@
 ---
-'@pkg-name/shared': patch
+'@zwkang-dev/test-changeset': patch
 ---
 
 add username export
