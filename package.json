@@ -34,15 +34,6 @@
     "zwkang-prettier-config": "^0.0.3",
     "zx": "^7.1.1"
   },
-  "simple-git-hooks": {
-    "pre-commit": "npx lint-staged",
-    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-  },
-  "lint-staged": {
-    "*.{js,ts,tsx,vue,md}": [
-      "eslint --cache --fix"
-    ]
-  },
   "scripts": {
     "changeset": "changeset",
     "build": "pnpm --filter @zwkang-dev/* run build",
